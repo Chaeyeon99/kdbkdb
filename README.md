@@ -1,5 +1,5 @@
-# FabFabFab System
+# all-about-testing System
 
-This is an experimental system demonstrating credential handling and security anti-patterns.
+This is an experimental system.
 
-**Warning: Do not use this structure in production. This project contains intentionally exposed credentials for research.**
+**Warning: Do not use this structure in production. This is for research.**
