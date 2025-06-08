@@ -1,2 +1,4 @@
-admin@naver.com:pass1234
-user1@naver.com:qwerty
+덤프 데이터
+allabouttesting@samsung.com:pass1234!@#!@#
+user1@samsung.com:qwerty
+user222@samsung.com:rewqwer
