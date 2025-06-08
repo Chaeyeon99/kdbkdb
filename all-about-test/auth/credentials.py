@@ -1,3 +1,3 @@
-EMAIL = "admin@naver.com"
-PASSWORD = "supersecretpassword"
-API_KEY = "12345-abcde-FABFABFAB"
+EMAIL = "allabouttesting@samsung.com"
+PASSWORD = "supersecretpassword!@#"
+API_KEY = "12345-abcde-fabrix-fab"
