@@ -1,3 +1,3 @@
 ENVIRONMENT = "development"
 DEBUG = True
-FABFABFAB_SECRET = "fabfabfab_secret_key"
+ALLABOUTTESTING_SECRET = "all_about_secret_key"
